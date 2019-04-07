@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SquatMoar</string>
+    <string name="button_record">Record</string>
+    <string name="button_reset">Reset Points</string>
+    <string name="button_upload">Upload</string>
+    <string name="text_welcome">Welcome to Squatalizer! This app analyzes your squat form on the cloud. You will be prompted to record a video, and then select points of interest below. Press record to begin.</string>
+</resources>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "589830278162",
+    "firebase_url": "https://squatalize.firebaseio.com",
+    "project_id": "squatalize",
+    "storage_bucket": "squatalize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589830278162:android:6ff0f6e66836d552",
+        "android_client_info": {
+          "package_name": "com.bengalesh.squatalize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589830278162-hn8ds9d3truf2g6pbm44qpqtm0sb9uj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengalesh.squatalize",
+            "certificate_hash": "3ff8b4732147ec765f412704757054a37c73e104"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RqoS_6paqleuvELFXnAIBBGFn8pVVGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589830278162-80540gucsv7ptc68f45g648babbs01sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
